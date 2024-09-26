@@ -1,0 +1,19 @@
+{
+  "@@locale": "ar",
+  "appTitle": "تطبيق الأخبار",
+  "pickCategory": "اختر الفئة التي تهمك",
+  "settings": "الإعدادات",
+  "categories": "الفئات",
+  "language": "اللغة",
+  "english": "الإنجليزية",
+  "arabic": "العربية",
+  "newsDetails": "تفاصيل الخبر",
+  "published": "تاريخ النشر:",
+  "noDescriptionAvailable": "الوصف غير متوفر",
+  "noArticlesFound": "لم يتم العثور على مقالات",
+  "noNameAvailable": "لا يوجد اسم متاح",
+  "viewFullArticle": "عرض المقال كاملاً",
+  "errorFetchingArticles": "خطأ في جلب المقالات",
+  "search": "بحث",
+  "pickYourCategoryOfInterest": "اختر الفئة التي تهمك"
+}

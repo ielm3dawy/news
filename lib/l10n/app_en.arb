@@ -1,0 +1,19 @@
+{
+  "@@locale": "en",
+  "appTitle": "News App",
+  "pickCategory": "Pick your category of interest",
+  "settings": "Settings",
+  "categories": "Categories",
+  "language": "Language",
+  "english": "English",
+  "arabic": "Arabic",
+  "newsDetails": "News Details",
+  "published": "Published:",
+  "noDescriptionAvailable": "No description available",
+  "noArticlesFound": "No articles found",
+  "noNameAvailable": "No name available",
+  "viewFullArticle": "View Full Article",
+  "errorFetchingArticles": "Error fetching articles",
+  "search": "Search",
+  "pickYourCategoryOfInterest": "Pick your category of interest"
+}
